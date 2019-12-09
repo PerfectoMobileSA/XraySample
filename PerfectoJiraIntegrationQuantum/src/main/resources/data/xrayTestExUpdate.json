@@ -1,0 +1,11 @@
+{
+    "testExecutionKey": "",
+    "info" : {
+        "summary" : "Test Execution Sample",
+        "description" : "This execution is automatically created when importing execution results from an external source",
+        "user" : "UPDATE_JIRA_USERNAME_HERE"
+    },
+    "tests" : [
+       
+     ]
+}

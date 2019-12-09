@@ -1,0 +1,12 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": ""
+       },
+       "summary": "Automation  Failure Task",
+       "issuetype": {
+          "name": "Task"
+       }
+   }
+}
